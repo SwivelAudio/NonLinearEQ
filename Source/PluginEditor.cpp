@@ -17,7 +17,7 @@ NonLinearEQAudioProcessorEditor::NonLinearEQAudioProcessorEditor (NonLinearEQAud
     // editor's size to whatever you need it to be.
     setSize (400, 300);
 }
-//plugin editor change delete
+
 NonLinearEQAudioProcessorEditor::~NonLinearEQAudioProcessorEditor()
 {
 }
